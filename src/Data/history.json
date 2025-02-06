@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Operations Assistant",
+    "organisation": "Wright State University ",
+    "startDate": "Apr, 2023",
+    "endDate": "Apr 2024",
+    "experiences": ["Facility Management and Equipment Maintenance", "Safety Compliance and Workflow Optimization"],
+    "imageSrc": "history/wright.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Clarion Aqua Solutions",
+    "startDate": "Sep, 2020",
+    "endDate": "Aug, 2022",
+    "experiences": ["Developed a Scalable web application", "Implemented API security & DevOps Practices"],
+    "imageSrc": "history/clarion.png"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Infosys",
+    "startDate": "Jan, 2022",
+    "endDate": "Apr, 2022",
+    "experiences": [
+      "Reusable Front-End Component Library for Angular Applications",
+      "Performance Optimization and Agile Development"
+    ],
+    "imageSrc": "history/infosys.png"
+  }
+]

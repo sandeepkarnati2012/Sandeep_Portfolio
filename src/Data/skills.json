@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.jpg"
+  },
+  {
+    "title":"Aws",
+    "imageSrc":"skills/aws.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title":"Django",
+    "imageSrc":"skills/django.png"
+  },
+  {
+    "title":"Docker",
+    "imageSrc":"skills/docker.png"
+  },
+  {
+    "title":"Git/GitHub",
+    "imageSrc":"skills/git.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title":"JavaScript",
+    "imageSrc":"skills/js.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title":"MySql",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title": "NodeJs",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"PostgreSQL",
+    "imageSrc":"skills/postgre.png"
+  },
+  {
+    "title":"Python",
+    "imageSrc":"skills/python.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  
+  
+  
+  {
+    "title":"TypeScript",
+    "imageSrc":"skills/Ts.png"
+  }
+  
+  
+  
+]
