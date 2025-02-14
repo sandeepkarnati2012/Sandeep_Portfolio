@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "Portfolio Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a my portfolio project made to show my experience and skills  by building a website.",
+    "skills": ["React", "Css", "Html"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "E-Commerce Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This project was primarily a learning experience, allowing me to apply and strengthen my skills.",
+    "skills": ["Angular", "Express", "Node", "Mongodb"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Quiz Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This project enhanced my Full-Stack skills, API integration expertise, and database optimization.",
+    "skills": ["Mongodb", "Express", "Node","Angular"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

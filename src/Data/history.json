@@ -4,7 +4,8 @@
     "organisation": "Wright State University ",
     "startDate": "Apr, 2023",
     "endDate": "Apr 2024",
-    "experiences": ["Facility Management and Equipment Maintenance", "Safety Compliance and Workflow Optimization"],
+    "experiences": ["I streamlined building operations and provided logistical support to enhance departmental coordination and ensure seamless event setups at Wright State University",
+     "I managed tools, equipment, and space organization while maintaining strict adherence to safety standards and collaborating with cross-functional teams to optimize workflow efficiency."],
     "imageSrc": "history/wright.png"
   },
   {
@@ -12,7 +13,10 @@
     "organisation": "Clarion Aqua Solutions",
     "startDate": "Sep, 2020",
     "endDate": "Aug, 2022",
-    "experiences": ["Developed a Scalable web application", "Implemented API security & DevOps Practices"],
+    "experiences": ["Designed and built dynamic web applications using Angular, improving user interface responsiveness and enhancing overall user experience, which led to a 15% increase in customer retention.", 
+    "Developed and maintained server-side logic with Node.js, ensuring high availability and stability during peak traffic periods while reducing server response times.",
+    " Built and optimized RESTful APIs to facilitate seamless communication between services, reducing integration timelines by 20% and improving data exchange efficiency",
+  "Managed application deployment on AWS using CI/CD pipelines, automating build and deployment processes, which reduced downtime by 50% and improved system reliability."],
     "imageSrc": "history/clarion.png"
   },
   {
@@ -21,8 +25,9 @@
     "startDate": "Jan, 2022",
     "endDate": "Apr, 2022",
     "experiences": [
-      "Reusable Front-End Component Library for Angular Applications",
-      "Performance Optimization and Agile Development"
+      "Created interactive and responsive front-end applications using Angular and TypeScript, enhancing user experience and speeding up development.",
+      "Designed RESTful APIs with Node.js and Express, implementing JWT authentication and role-based access control (RBAC) to enhance security and reduce vulnerabilities by 40%.",
+      "Structured and optimized MongoDB schemas using Mongoose, improving query performance by 35% and ensuring data consistency across operations"
     ],
     "imageSrc": "history/infosys.png"
   }
