@@ -1,0 +1,17 @@
+export {default as angular} from './angular.jpg';
+export {default as aws} from './aws.png';
+export {default as css} from './css.png';
+export {default as django} from './django.png';
+export {default as docker} from './docker.png';
+export {default as figma} from './figma.png';
+export {default as git} from './git.png';
+export {default as graphql} from './graphql.png';
+export {default as html} from './html.png';
+export {default as js} from './js.png';
+export {default as mongodb} from './mongodb.png';
+export {default as mysql} from './mysql.png';
+export {default as node} from './node.png';
+export {default as postgresql} from './postgre.png';
+export {default as python} from './python.png';
+export {default as react} from './react.png';
+export {default as ts} from './Ts.png';

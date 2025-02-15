@@ -1,63 +1,63 @@
 [
   {
     "title": "Angular",
-    "imageSrc": "skills/angular.jpg"
+    "imageSrc": "angular"
   },
   {
     "title":"Aws",
-    "imageSrc":"skills/aws.png"
+    "imageSrc":"aws"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "css"
   },
   {
     "title":"Django",
-    "imageSrc":"skills/django.png"
+    "imageSrc":"django"
   },
   {
     "title":"Docker",
-    "imageSrc":"skills/docker.png"
+    "imageSrc":"docker"
   },
   {
     "title":"Git/GitHub",
-    "imageSrc":"skills/git.png"
+    "imageSrc":"git"
   },
   {
     "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "imageSrc": "graphql"
   },
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "html"
   },
   {
     "title":"JavaScript",
-    "imageSrc":"skills/js.png"
+    "imageSrc":"js"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "mongodb"
   },
   {
     "title":"MySql",
-    "imageSrc":"skills/mysql.png"
+    "imageSrc":"mysql"
   },
   {
     "title": "NodeJs",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "node"
   },
   {
     "title":"PostgreSQL",
-    "imageSrc":"skills/postgre.png"
+    "imageSrc":"postgresql"
   },
   {
     "title":"Python",
-    "imageSrc":"skills/python.png"
+    "imageSrc":"python"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "react"
   },
   
   
